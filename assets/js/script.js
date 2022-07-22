@@ -5,6 +5,7 @@ $(document).ready(function() {
 		easing: "ease",
 		animationTime: 1000,
 	   	loop: false,
+	   	updateURL: true,
 	});
 
 });
