@@ -23,6 +23,10 @@
   line-height: 1.5;
 }
 
+a {
+  text-decoration: none;
+}
+
 #header {
 	align-items: center;
 	display: flex;
@@ -355,8 +359,7 @@
   height: 100%;
   top: 0;
   right: 0;
-  background-color: #53d9d1;
-
+  background-color: #a5dbe8;
   clip-path: circle(0% at 50% calc(50%));
   transition: clip-path 1s cubic-bezier(0.65, 0, 0.35, 1);
 }
@@ -429,8 +432,7 @@
     100% 100%,
     0% 110%
   );
-  background-color: #f27b9b;
-
+  background-color: #ff291a;
   transition: clip-path 1s cubic-bezier(0.25, 1, 0.5, 1);
 }
 
@@ -447,7 +449,7 @@
   );
 }
 
-.link-two::after {
+/*.link-two::after {
   content: "";
   position: absolute;
   z-index: -1;
@@ -457,9 +459,8 @@
   right: 50%;
   transform: translate(50%, -50%) rotate(0deg) scale(0);
   transition: transform 1s ease;
-
   background-color: #f27b9b;
-}
+}*/
 
 .link-two:hover::after {
   transform: translate(50%, -50%) rotate(135deg) scale(1);
@@ -472,7 +473,7 @@
 .link-three::after {
   content: "";
   position: absolute;
-  z-index: 2;
+  z-index: -1;
   width: 50%;
   height: 100%;
   top: 0%;
@@ -480,7 +481,6 @@
   transform: translate(0, -50%) scaleY(0);
   transition: transform 1s ease;
   mix-blend-mode: difference;
-
   clip-path: polygon(
     20% 60%,
     100% 60%,
@@ -491,18 +491,17 @@
     60% 20%,
     20% 20%
   );
-
-  background-color: #eb7132;
+  background-color: #0f6baa;
 }
 
 .link-three:hover::after {
-  transform: translate(0, 0%) scaleY(1);
+  transform: translate(0, 0%) scaleY(1.2);
 }
 
 .link-three::before {
   content: "";
   position: absolute;
-  z-index: 2;
+  z-index: -1;
   width: 50%;
   height: 100%;
   bottom: 0%;
@@ -510,7 +509,6 @@
   transform: translate(0, 50%) scaleY(0);
   transition: transform 1s ease;
   mix-blend-mode: difference;
-
   clip-path: polygon(
     80% 40%,
     0% 40%,
@@ -521,12 +519,11 @@
     40% 80%,
     80% 80%
   );
-
-  background-color: #eb7132;
+  background-color: #0f6baa;
 }
 
 .link-three:hover::before {
-  transform: translate(0%, 0%) scaleY(1);
+  transform: translate(0%, 0%) scaleY(1.2);
 }
 
 
@@ -575,7 +572,7 @@ body {
 
 .section-1 img.img-logo {
 	height: 170px;
-  filter: drop-shadow(0 0 6px #222);
+  filter: drop-shadow(0 0 2px #fff);
 }
 
 .social-wrapper {
@@ -606,4 +603,15 @@ body {
     align-items: center;
 	display: flex;
     justify-content: center;
+}
+
+.section-work-wrapper .link-container > a {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.section-work-wrapper .link-container img {
+  height: 150px;
+  z-index: 3;
 }

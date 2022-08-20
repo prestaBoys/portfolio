@@ -25,7 +25,7 @@
             <label for="menu-icon"></label>
             <nav class="nav">       
                 <ul class="pt-5">
-                    <li><a href="#">Work</a></li>
+                    <li><a href="work.php">Work</a></li>
                     <li><a href="#">Plugins</a></li>
                     <li><a href="#">Hire Us</a></li>
                 </ul>
@@ -54,9 +54,6 @@
                 </div>
                 <div>
                     <h1>We're Presta Boys</h1>
-
-                    <?php echo date("Y-m-d H:i:s"); ?>
-
                     <p>We are an independent web developers specialized in <a href="" title="">Prestashop</a>, <a href="" title="">Laravel</a>, <a href="" title="">Wordpress</a> and many more. On our spare times, we used to code mostly on Prestashop modules,
                         themes, Wordpress customization and back end (Laravel, Codeigniter) as well. We used to work with both small and big companies from around the world as a full-time developer and freelance for the last 4 years that helps us polished
                         our skills in development.</p>
@@ -69,14 +66,23 @@
             <div>
                 <div class="background-one">
                     <div class="link-container">
-                        <a class="link-one" href="https://jhancock532.github.io/link-hover-effects/">Prestashop</a>
+                        <a class="link-one" href="https://jhancock532.github.io/link-hover-effects/">
+                            <img src="assets/img/prestashop.png" alt="">
+                            <span>Prestashop</span>
+                        </a>
                     </div>
                 </div>
                 <div class="background-two link-container">
-                    <a class="link-two" href="https://jhancock532.github.io/link-hover-effects/">Laravel</a>
+                    <a class="link-two" href="https://jhancock532.github.io/link-hover-effects/">
+                        <img src="assets/img/laravel.png" alt="">
+                        <span>Laravel</span>
+                    </a>
                 </div>
                 <div class="background-three link-container">
-                    <a class="link-three" href="https://jhancock532.github.io/link-hover-effects/">Wordpress</a>
+                    <a class="link-three" href="https://jhancock532.github.io/link-hover-effects/">
+                        <img src="assets/img/wordpress.png" alt="">
+                        <span>Wordpress</span>
+                    </a>
                 </div>
             </div>
 
