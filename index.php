@@ -21,15 +21,12 @@
         <section class="main-wrapper">
             <div class="section-1">
                 <div>
-                    <div id="canvas">
-                        <canvas id="projector">Your browser does not support the Canvas element.</canvas>
-                    </div>
-
-                    <h1>We're Presta Boys</h1>
-                    <p>We are an independent web developers specialized in <a href="" title="">Prestashop</a>, <a href="" title="">Laravel</a>, <a href="" title="">Wordpress</a> and many more. On our spare times, we used to code mostly on Prestashop modules,
-                        themes, Wordpress customization and back end (Laravel, Codeigniter) as well. We used to work with both small and big companies from around the world as a full-time developer and freelance for the last 4 years that helps us polished
-                        our skills in development.</p>
+                    <p class="section-1-title">Web developers</p>
+                    <h1>Hi, we're Presta Boys expert in Prestashop, Laravel and wordpress</h1>
+                    <p>Our mission is to deliver world class, quality website that you and your audience love. 4+ years of experience in web development specialized in creating prestashop modules and themes, laravel both front-end and back-end features and Wordpress development.</p>
                     <p>We're always open to work, contact us anytime you want.</p>
+
+                    <a href="https://discord.gg/XdvkGWzx2g" title="" class="btn btn-primary btnmain-custom" target="_blank">Let's chat on Discord</a>
 
                     <!-- <div class="arrow-anim">
                         <span></span>
