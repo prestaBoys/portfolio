@@ -1,0 +1,12 @@
+f046b3,::1,GET,http://localhost/portfolio/site/prestashop/admin218sdfxte/index.php/_fragment?_path=_format%3Dhtml%26_locale%3Den-US%26_controller%3DPrestaShopBundle%253AAdmin%255CCommon%253Apagination,1661571084,d6b6f5,200
+d6b6f5,::1,GET,http://localhost/portfolio/site/prestashop/admin218sdfxte/index.php/configure/shop/seo-urls/?_token=IFsW9qo6uyfo5Pb1bW7x-YvJcC3QnJCxIJkfSyB4KiI,1661571085,,200
+0a4f67,::1,POST,http://localhost/portfolio/site/prestashop/admin218sdfxte/index.php/common/notifications?_token=IFsW9qo6uyfo5Pb1bW7x-YvJcC3QnJCxIJkfSyB4KiI,1661571088,,200
+280bfa,::1,POST,http://localhost/portfolio/site/prestashop/admin218sdfxte/index.php/common/notifications?_token=IFsW9qo6uyfo5Pb1bW7x-YvJcC3QnJCxIJkfSyB4KiI&rand=1661571086218,1661571088,,200
+3f0ce6,::1,POST,http://localhost/portfolio/site/prestashop/admin218sdfxte/index.php/common/notifications?_token=IFsW9qo6uyfo5Pb1bW7x-YvJcC3QnJCxIJkfSyB4KiI,1661571209,,200
+4288cd,::1,POST,http://localhost/portfolio/site/prestashop/admin218sdfxte/index.php/common/notifications?_token=IFsW9qo6uyfo5Pb1bW7x-YvJcC3QnJCxIJkfSyB4KiI&rand=1661571209145,1661571210,,200
+b05645,::1,POST,http://localhost/portfolio/site/prestashop/admin218sdfxte/index.php/common/notifications?_token=IFsW9qo6uyfo5Pb1bW7x-YvJcC3QnJCxIJkfSyB4KiI,1661571330,,200
+89bd81,::1,POST,http://localhost/portfolio/site/prestashop/admin218sdfxte/index.php/common/notifications?_token=IFsW9qo6uyfo5Pb1bW7x-YvJcC3QnJCxIJkfSyB4KiI&rand=1661571330149,1661571331,,200
+8767b0,::1,POST,http://localhost/portfolio/site/prestashop/admin218sdfxte/index.php/common/notifications?_token=IFsW9qo6uyfo5Pb1bW7x-YvJcC3QnJCxIJkfSyB4KiI,1661571451,,200
+429370,::1,POST,http://localhost/portfolio/site/prestashop/admin218sdfxte/index.php/common/notifications?_token=IFsW9qo6uyfo5Pb1bW7x-YvJcC3QnJCxIJkfSyB4KiI&rand=1661571452143,1661571452,,200
+8c232a,::1,POST,http://localhost/portfolio/site/prestashop/admin218sdfxte/index.php/common/notifications?_token=IFsW9qo6uyfo5Pb1bW7x-YvJcC3QnJCxIJkfSyB4KiI,1661571572,,200
+a47014,::1,POST,http://localhost/portfolio/site/prestashop/admin218sdfxte/index.php/common/notifications?_token=IFsW9qo6uyfo5Pb1bW7x-YvJcC3QnJCxIJkfSyB4KiI&rand=1661571573150,1661571573,,200

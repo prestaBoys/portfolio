@@ -8,9 +8,9 @@
     <div class="menu-right">
         <div class="menu-wrapper">
             <nav>
-                <a href="" title="">Prestashop</a>
-                <a href="" title="">Laravel</a>
-                <a href="" title="">Wordpress</a>
+                <a href="site/prestashop" title="View Prestashop demo site">Prestashop</a>
+                <a href="site/laravel" title="View Laravel demo site">Laravel</a>
+                <a href="site/wordpress" title="View Wordpress demo site">Wordpress</a>
             </nav>
         </div>
     </div>
