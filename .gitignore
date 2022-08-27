@@ -4,5 +4,10 @@
 # exclude patterns (uncomment them if you want to use them):
 # *.[oa]
 # *~
-site/prestashop/vendor/
-site/prestashop/img/
+site/prestashop/admin218sdfxte/*
+site/prestashop/app/*
+site/prestashop/bin/*
+site/prestashop/cache/*
+site/prestashop/var/*
+site/prestashop/vendor/*
+site/prestashop/img/*
