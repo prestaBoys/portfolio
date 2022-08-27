@@ -24,7 +24,7 @@
 </style>
 
 <div class="d-flex-full-height">
-	<a href="/portfolio" title="">Back to home</a>
+	<a href="/" title="">Back to home</a>
 	<h1>We will upload soon . . .</h1>
 </div>
 
