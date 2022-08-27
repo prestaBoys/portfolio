@@ -1,11 +1,12 @@
 <style>
 	.d-flex-full-height {
-	  display: flex;
-	  align-items: center;
-	  flex-direction: column;
-	  justify-content: center;
-	  height: 100%;
+	  	align-items: center;
+	  	display: flex;
+	  	flex-direction: column;
+	  	justify-content: center;
+	  	height: 100%;
     	font-size: 50px;
+    	background: #fcfafb;
 	}
 	a {
 	    background: #00bcd4;
@@ -19,12 +20,17 @@
 	    right: 15px;
 	}
 	h1 {
+		font-size: 50px;
 		margin: 0;
+	}
+	img {
+		height: 150px;
 	}
 </style>
 
 <div class="d-flex-full-height">
 	<a href="/" title="">Back to home</a>
+	<img src="../../assets/img/wink-emoji.gif" alt="">
 	<h1>We will upload soon . . .</h1>
 </div>
 
